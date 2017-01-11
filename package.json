@@ -1,0 +1,25 @@
+{
+  "name": "eddy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkissel/eddy.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkissel/eddy/issues"
+  },
+  "homepage": "https://github.com/jkissel/eddy#readme",
+  "dependencies": {
+    "jstransformer": "^1.0.0",
+    "jstransformer-handlebars": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^18.1.0"
+  }
+}
